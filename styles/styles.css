@@ -35,7 +35,7 @@
 }
 
 .colLeft {
-  width: 600px;
+  width: 40%;
   margin-left: 310px;
  /* margin-top: 300px;*/
   border: 2px solid #cef2e0;
@@ -47,7 +47,7 @@
 }
 
 .colRight {
-  width: 600px;
+  width: 40%;
   margin-left: 900px;
  /* margin-top: 300px;*/
   border: 2px solid #cedff2;
